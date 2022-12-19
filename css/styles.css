@@ -38,6 +38,18 @@
     background-color: #512DA8;
 }
 
-#reservetable-header {
+.reservetable-header {
     background-color: #F3C250;
 }
+
+.reservetable-button {
+    background-color: #F3C250;
+    color: black;
+    border-color: #F3C250;
+}
+
+.btn:hover {
+    background-color: #f3c250dc;
+    color: black;
+    border-color: #F3C250;
+  }
