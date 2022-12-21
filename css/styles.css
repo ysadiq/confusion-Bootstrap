@@ -77,3 +77,13 @@
     min-height: 300px;
 }
 
+.btn-smoking {
+    background-color: red;
+    color: white;
+}
+
+.btn-nonsmoking {
+    background-color: green;
+    color: white;
+}
+
