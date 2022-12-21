@@ -52,3 +52,28 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.reservetable-header {
+  background-color: #F3C250; }
+
+.reservetable-button {
+  background-color: #F3C250;
+  color: black;
+  border-color: #F3C250; }
+
+.btn-smoking {
+  background-color: red;
+  color: white; }
+
+.btn-nonsmoking {
+  background-color: green;
+  color: white; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
